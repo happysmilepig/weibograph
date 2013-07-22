@@ -1,0 +1,14 @@
+URI:
+ name rdfs:label
+ friend 
+ follower
+ createWeibo
+ createComment
+ commentTo
+ 
+Literal:
+ description
+ weiboText	rdfs:Literal
+ weiboDate
+ commentDate
+ commentContext	rdfs:Comment
